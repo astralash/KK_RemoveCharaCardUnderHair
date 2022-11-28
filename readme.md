@@ -3,6 +3,7 @@ The repository contains two simple script tool to remove under hair (remove pubi
 ## CharaStudioScript
 scripts/RemoveUnderHair.cs
 Requirement: [ScriptLoader.dll](https://github.com/ghorsington/BepInEx.ScriptLoader/releases/tag/v1.2.4.0)
+You should read the comment in RemoveUnderHair.cs
 Press O to Remove all characters' pubic hair in chara studio. 
 You can edit the code if hot key conflicts.
 
