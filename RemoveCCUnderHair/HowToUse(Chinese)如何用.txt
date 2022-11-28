@@ -1,0 +1,12 @@
+注意：本程序会直接修改CharaCard角色卡，如有重要的文件，如原创/停配/付费获得的角色卡，建议备份
+本程序会扫描并修改，当前目录及其子目录下**全部**的判定为有效角色卡的 以png结尾的文件。
+
+将本程序放到要修改的目录中，运行即可，例如放到 D:\KK\UserData\chara\female
+将"D:\KK"替换成你的游戏的根目录
+male没测试过，建议谨慎使用
+
+RemoveUnderHairCharaCard.exe
+是已经打包过的程序，可以直接运行
+
+RemoveUnderHairCharaCard.py
+是代码，如果不懂python可以忽略
