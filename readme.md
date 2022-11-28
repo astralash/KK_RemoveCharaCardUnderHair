@@ -1,4 +1,4 @@
-The repository contains two simple script tool to remove under hair (remove pubic hair / shave ).
+The repository contains two simple script tool to remove under hair (remove pubic hair / shave ) in Koikatu (Koikatsu).
 
 ## CharaStudioScript
 scripts/RemoveUnderHair.cs
