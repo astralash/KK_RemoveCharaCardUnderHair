@@ -7,6 +7,11 @@ You should read the comment in RemoveUnderHair.cs
 Press O to Remove all characters' pubic hair in chara studio. 
 You can edit the code if hot key conflicts.
 
+## RemoveCCUnderHair\RemoveUnderHairCharaCard.exe
+Packed "RemoveUnderHairCharaCard.py" to an exe.
+Get it in [Releases(It contains both exe and the source code)](https://github.com/astralash/Koikatu-Remove-Under-Hair/releases/tag/v1.0). 
+
+
 ## RemoveCCUnderHair\RemoveUnderHairCharaCard.py
 A simple script that remove al pubic hair of chara cards in current directory and its subdirectories.
 I wrote 'HowToUse' in Chinese and I'm lazy to translate it, so key points are below:
