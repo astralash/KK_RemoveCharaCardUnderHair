@@ -20,3 +20,4 @@ I use error processing machanism to judge whether the png file is a chara card.
 It's my first time to use such strategy so I'm not sure if it's acceptable.
 I have to do that cauz the lib does not provide a judging function.
 
+[KoikatuCharaLoader lib used by this script(you simply can use pip to install it)](https://github.com/great-majority/KoikatuCharaLoader)
